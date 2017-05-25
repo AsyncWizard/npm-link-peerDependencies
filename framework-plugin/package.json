@@ -1,0 +1,14 @@
+{
+  "name": "framework-plugin",
+  "version": "1.0.0",
+  "description": "A framework plugin that will try to get a dynamically created framework property.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "peerDependencies": {
+    "framework": "*"
+  },
+  "author": "Me",
+  "license": "ISC"
+}

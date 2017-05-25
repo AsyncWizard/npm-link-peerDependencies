@@ -1,0 +1,15 @@
+{
+  "name": "fw-project",
+  "version": "1.0.0",
+  "description": "A project that will use framework, add a property to it and start plugin. The plugin will try to get the property.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies":{
+    "framework": "*",
+    "framework-plugin": "*"
+  }
+  "author": "Me",
+  "license": "ISC"
+}
